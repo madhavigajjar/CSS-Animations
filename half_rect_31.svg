@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1280 1024" style="enable-background:new 0 0 1280 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'ArialRoundedMTBold';}
+	.st1{font-size:60px;}
+	.st2{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+	.st4{stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#FF0000;stroke-width:6;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#3300FF;stroke-width:6;stroke-miterlimit:10;}
+    
+    #op{
+      animation-name: opac;
+    animation-duration: 1.5s;
+    animation-fill-mode: forwards;
+    }
+      @keyframes opac{
+        0%{stroke-opacity: 0;
+            fill-opacity:"0"}
+        60%{stroke-opacity: 0.5;
+    fill-opacity:"0.5"
+    }
+    100%{stroke-opacity: 1;
+    fill-opacity:"1"}
+        }
+</style>
+<text transform="matrix(1 0 0 1 170.3335 73.3335)" class="st0 st1">Direct Voltage and Current</text>
+<line class="st2" x1="315" y1="190" x2="315" y2="315"/>
+<line class="st2" x1="315.5" y1="332" x2="315.5" y2="457"/>
+<line class="st3" x1="252.5" y1="314.5" x2="377.5" y2="314.5"/>
+<line class="st3" x1="289" y1="332.5" x2="342.5" y2="332.5"/>
+<circle class="st4" cx="314.5" cy="190.5" r="9"/>
+<circle class="st4" cx="315.5" cy="456.5" r="9"/>
+<line class="st5" x1="209" y1="363.5" x2="255" y2="363.5"/>
+<line class="st6" x1="206" y1="271" x2="253.4" y2="271"/>
+<line class="st6" x1="229.7" y1="296.2" x2="229.7" y2="245.9"/>
+<line id="op" class="st2" x1="314.5" y1="111" x2="315" y2="190"/>
+<line id="op"  class="st2" x1="314.5" y1="470" x2="315" y2="549"/>
+<line id="op"  class="st2" x1="313.8" y1="113" x2="589" y2="113"/>
+<line id="op"  class="st2" x1="313.1" y1="547" x2="588.4" y2="547"/>
+<line  id="op" class="st2" x1="588.4" y1="111" x2="588.4" y2="236"/>
+<line id="op"  class="st2" x1="588.4" y1="424" x2="588.4" y2="549"/>
+<g>
+	<polyline id="op" class="st2" points="586.4,424 634.5,400.7 586.6,377 634.7,353.7 586.9,329.9 635,306.8 587.1,283 
+		635.2,259.7 587.3,236 	"/>
+</g>
+<ellipse id="op"  class="st4" cx="589" cy="212.5" rx="7.7" ry="7.7"/>
+<ellipse id="op"  class="st4" cx="587.4" cy="447.5" rx="7.7" ry="7.7"/>
+</svg>

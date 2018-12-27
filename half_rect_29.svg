@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1280 1024" style="enable-background:new 0 0 1280 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'ArialRoundedMTBold';}
+	.st1{font-size:60px;}
+	.st2{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+	.st4{stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#FF0000;stroke-width:6;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#3300FF;stroke-width:6;stroke-miterlimit:10;}
+	.st7{font-size:82.6025px;}
+     #op{
+      animation : opac 2s linear;
+<!--
+    animation-duration: 1.5s;
+    animation-fill-mode: forwards;
+-->
+    }
+<!--
+      @keyframes opac{
+        0%{stroke-opacity: 0;
+            fill-opacity:"0"}
+        60%{stroke-opacity: 0.5;
+    fill-opacity:"0.5"
+    }
+    100%{stroke-opacity: 1;
+    fill-opacity:"1"}
+        }
+-->
+    @keyframes opac{
+    0%{
+    opacity:0.0;
+    }
+    30%{
+    opacity:0.0;
+    }
+    50%{
+     opacity:0.5;
+    }
+    70%{
+     opacity:0.7;
+    }
+    100%{
+     opacity:1.0;
+    }
+    }
+</style>
+<text  transform="matrix(1 0 0 1 170.3335 73.3335)" class="st0 st1">Direct Voltage and Current</text>
+<line class="st2" x1="575" y1="190" x2="575" y2="315"/>
+<line class="st2" x1="575.5" y1="332" x2="575.5" y2="457"/>
+<line class="st3" x1="512.5" y1="314.5" x2="637.5" y2="314.5"/>
+<line class="st3" x1="549" y1="332.5" x2="602.5" y2="332.5"/>
+<circle class="st4" cx="574.5" cy="190.5" r="9"/>
+<circle class="st4" cx="575.5" cy="456.5" r="9"/>
+<line class="st5" x1="469" y1="363.5" x2="515" y2="363.5"/>
+<line class="st6" x1="466" y1="271" x2="513.4" y2="271"/>
+<line class="st6" x1="489.7" y1="296.2" x2="489.7" y2="245.9"/>
+<text id="op" transform="matrix(0.8524 0 0 1 400 584.3682)" class="st0 st7">DC Source</text>
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1280 1024" style="enable-background:new 0 0 1280 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'ArialRoundedMTBold';}
+	.st1{font-size:101.8407px;}
+     #op{
+      animation : opac 2s linear;
+<!--
+    animation-duration: 1.5s;
+    animation-fill-mode: forwards;
+-->
+    }
+<!--
+      @keyframes opac{
+        0%{stroke-opacity: 0;
+            fill-opacity:"0"}
+        60%{stroke-opacity: 0.5;
+    fill-opacity:"0.5"
+    }
+    100%{stroke-opacity: 1;
+    fill-opacity:"1"}
+        }
+-->
+    @keyframes opac{
+    0%{
+    opacity:0.0;
+    }
+    30%{
+    opacity:0.0;
+    }
+    50%{
+     opacity:0.5;
+    }
+    70%{
+     opacity:0.7;
+    }
+    100%{
+     opacity:1.0;
+    }
+    }
+</style>
+<text id="op" transform="matrix(0.7338 0 0 1 197 96.5186)" class="st0 st1">Direct Voltage and Current</text>
+</svg>

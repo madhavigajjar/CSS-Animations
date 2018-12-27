@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1280 1024" style="enable-background:new 0 0 1280 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'ArialRoundedMTBold';}
+	.st1{font-size:101.8407px;}
+	.st2{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#1C0055;stroke-width:3;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#1C0055;stroke-width:3;stroke-miterlimit:10;stroke-dasharray:12.0038,12.0038;}
+	.st5{font-size:24px;}
+	.st6{fill:none;stroke:#FF0007;stroke-width:3;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#00089F;stroke-width:3;stroke-miterlimit:10;}
+   #move{
+       
+       
+    animation-name: txt;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+        
+        @keyframes txt{
+        0%{transform: translateX(755.1px);}
+        100%{transform: translateX(0px)}
+    
+        }
+    }
+    
+</style>
+<text transform="matrix(0.7338 0 0 1 197 96.5186)" class="st0 st1">Direct Voltage and Current</text>
+<line class="st2" x1="302" y1="140" x2="302" y2="358"/>
+<line class="st2" x1="302" y1="357" x2="764" y2="356"/>
+<line class="st2" x1="558" y1="356.4" x2="559" y2="356.4"/>
+<g>
+	<g>
+		<line class="st3" x1="302" y1="303.7" x2="306.3" y2="303.7"/>
+		<line class="st4" x1="314.9" y1="303.7" x2="757.4" y2="305.7"/>
+		<line class="st3" x1="761.7" y1="305.7" x2="766" y2="305.7"/>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st3" x1="304.1" y1="248" x2="308.4" y2="248"/>
+		<line class="st4" x1="317" y1="248" x2="759.6" y2="250"/>
+		<line class="st3" x1="763.9" y1="250" x2="768.1" y2="250"/>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st3" x1="304.1" y1="192.3" x2="308.4" y2="192.3"/>
+		<line class="st4" x1="317" y1="192.3" x2="759.6" y2="194.3"/>
+		<line class="st3" x1="763.9" y1="194.3" x2="768.1" y2="194.3"/>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st3" x1="532.8" y1="356" x2="532.8" y2="353.9"/>
+		<line class="st4" x1="532.8" y1="349.7" x2="534.8" y2="132.3"/>
+		<line class="st3" x1="534.8" y1="130.2" x2="534.8" y2="128.1"/>
+	</g>
+</g>
+<line class="st2" x1="299.7" y1="500.4" x2="299.7" y2="718.4"/>
+<line class="st2" x1="299.7" y1="717.4" x2="761.7" y2="716.4"/>
+<line class="st2" x1="555.7" y1="716.8" x2="556.7" y2="716.8"/>
+<g>
+	<g>
+		<line class="st3" x1="299.7" y1="664.1" x2="304" y2="664.1"/>
+		<line class="st4" x1="312.6" y1="664.1" x2="755.1" y2="666.1"/>
+		<line class="st3" x1="759.4" y1="666.1" x2="763.7" y2="666.1"/>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st3" x1="301.9" y1="608.4" x2="306.2" y2="608.4"/>
+		<line class="st4" x1="314.8" y1="608.4" x2="757.3" y2="610.4"/>
+		<line class="st3" x1="761.6" y1="610.4" x2="765.9" y2="610.4"/>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st3" x1="301.9" y1="552.7" x2="306.2" y2="552.7"/>
+		<line class="st4" x1="314.8" y1="552.7" x2="757.3" y2="554.7"/>
+		<line class="st3" x1="761.6" y1="554.7" x2="765.9" y2="554.7"/>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st3" x1="530.5" y1="716.4" x2="530.5" y2="714.3"/>
+		<line class="st4" x1="530.5" y1="710.1" x2="532.5" y2="492.8"/>
+		<line class="st3" x1="532.5" y1="490.6" x2="532.5" y2="488.5"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 279 199)" class="st0 st5">5</text>
+<text transform="matrix(1 0 0 1 280 256)" class="st0 st5">0</text>
+<text transform="matrix(1 0 0 1 272 310)" class="st0 st5">-5</text>
+<text transform="matrix(1 0 0 1 258 368)" class="st0 st5">-10</text>
+<text transform="matrix(1 0 0 1 507 380)" class="st0 st5">0.02</text>
+<text transform="matrix(1 0 0 1 258 554.6753)" class="st0 st5">0.1</text>
+<text transform="matrix(1 0 0 1 272 610.4035)" class="st0 st5">0</text>
+<text transform="matrix(1 0 0 1 249 666.1318)" class="st0 st5">-0.1</text>
+<text transform="matrix(1 0 0 1 249 723)" class="st0 st5">-0.2</text>
+<text transform="matrix(1 0 0 1 507 738)" class="st0 st5">0.02</text>
+<text transform="matrix(1 0 0 1 258 504)" class="st0 st5">0.2</text>
+<text transform="matrix(1 0 0 1 268 144)" class="st0 st5">10</text>
+<text transform="matrix(1 0 0 1 217 132)" class="st0 st5">Vdc</text>
+
+<text transform="matrix(1 0 0 1 214 491)" class="st0 st5">Idc</text>
+
+<line class="st6" x1="417" y1="118.4" x2="417" y2="363.6"/>
+<line class="st6" x1="414.6" y1="483.8" x2="414.6" y2="729"/>
+<line class="st6" x1="299.4" y1="581.5" x2="768.1" y2="581.5"/>
+<line class="st7" x1="300.4" y1="218" x2="769.2" y2="218"/>
+<text transform="matrix(1 0 0 1 755.1 395)" class="st0 st5">t</text>
+<text transform="matrix(1 0 0 1 709.1 380)" class="st0 st5">0.04</text>
+<text id="move" transform="matrix(1 0 0 1 755.1 753)" class="st0 st5">t</text>
+<text transform="matrix(1 0 0 1 709.1 738)" class="st0 st5">0.04</text>
+
+</svg>

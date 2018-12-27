@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1280 1024" style="enable-background:new 0 0 1280 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'ArialRoundedMTBold';}
+	.st1{font-size:77.0646px;}
+	.st2{stroke:#000000;stroke-width:10;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#000000;stroke-width:10;stroke-miterlimit:10;}
+	.st4{font-size:24px;}
+    
+    #op{
+      animation-name: opac;
+    animation-duration: 1.5s;
+    animation-fill-mode: forwards;
+    }
+      @keyframes opac{
+        0%{stroke-opacity: 0;
+            fill-opacity:"0"}
+        60%{stroke-opacity: 0.5;
+    fill-opacity:"0.5"
+    }
+    100%{stroke-opacity: 1;
+    fill-opacity:"1"}
+        }
+    
+     #op_t{
+      animation : opac 2s linear;
+<!--
+    animation-duration: 1.5s;
+    animation-fill-mode: forwards;
+-->
+    }
+<!--
+      @keyframes opac{
+        0%{stroke-opacity: 0;
+            fill-opacity:"0"}
+        60%{stroke-opacity: 0.5;
+    fill-opacity:"0.5"
+    }
+    100%{stroke-opacity: 1;
+    fill-opacity:"1"}
+        }
+-->
+    @keyframes opac{
+    0%{
+    opacity:0.0;
+    }
+    30%{
+    opacity:0.0;
+    }
+    50%{
+     opacity:0.5;
+    }
+    70%{
+     opacity:0.7;
+    }
+    100%{
+     opacity:1.0;
+    }
+    }
+    
+</style>
+<text transform="matrix(0.8969 0 0 1 253.666 126.7441)" class="st0 st1">Semiconductor Diode</text>
+<polygon id="op" class="st2" points="504,370 504,455 626,412.5 "/>
+<line  id="op" class="st3" x1="301" y1="410" x2="848" y2="413"/>
+<line  id="op" class="st3" x1="637" y1="345" x2="637" y2="482"/>
+<circle id="op"  class="st2" cx="299" cy="409" r="10"/>
+<circle id="op"  class="st2" cx="843" cy="414" r="10"/>
+<text id="op_t" transform="matrix(1 0 0 1 379.6665 353.6665)" class="st0 st4">Anode(A)</text>
+<text id="op_t"  transform="matrix(1 0 0 1 661.333 354)" class="st0 st4">Cathode(K)</text>
+</svg>

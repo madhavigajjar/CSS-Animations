@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1280 1024" style="enable-background:new 0 0 1280 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EB2D34;}
+	.st1{fill:#231F20;}
+	.st2{font-family:'ArialRoundedMTBold';}
+	.st3{font-size:101.8407px;}
+	.st4{fill:#FFFFFF;stroke:#660000;stroke-width:3;stroke-miterlimit:10;}
+	.st5{fill:#660000;}
+	.st6{fill:none;stroke:#660000;stroke-width:3;stroke-miterlimit:10;}
+	.st7{fill:#660000;stroke:#660000;stroke-width:3;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#FF0000;stroke-width:3;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#3300FF;stroke-width:3;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st11{stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st12{font-family:'MyriadPro-Regular';}
+	.st13{font-size:36px;}
+	.st14{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st15{font-size:31.7118px;}
+	.st16{font-size:59.5156px;}
+	.st17{fill:none;stroke:#1C0055;stroke-width:3;stroke-miterlimit:10;}
+	.st18{fill:none;stroke:#1C0055;stroke-width:3;stroke-miterlimit:10;stroke-dasharray:12.0038,12.0038;}
+	.st19{fill:none;stroke:#1C0055;stroke-width:3;stroke-miterlimit:10;stroke-dasharray:11.7903,11.7903;}
+	.st20{fill:#FFFFFF;stroke:#1C0055;stroke-width:3;stroke-miterlimit:10;}
+	.st21{fill:none;stroke:#BF2000;stroke-width:3;stroke-miterlimit:10;}
+    
+      #move{
+       
+    animation-name: line;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+        
+        @keyframes line{
+        0%{transform: translateX(0px);}
+        100%{transform: translateX(205px)}
+        }
+    
+     #blink_me {
+  animation: blinker 1s linear infinite;
+    animation-name: blinker;
+    font-size: 70px;
+    text-align: center;
+}
+
+@keyframes blinker{
+  50% {
+    opacity: 0;
+  }
+}
+    
+</style>
+<symbol  id="Arrow_3" viewBox="-11.6 -10.8 23.2 21.5">
+	<g>
+		<g>
+			<g>
+				<polygon class="st0" points="-11.6,-10.8 -2.7,0 -11.6,10.8 11.6,0 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon id="blink_me" class="st1" points="-11.6,-10.8 -2.7,0 -11.6,10.8 11.6,0 				"/>
+			</g>
+		</g>
+	</g>
+</symbol>
+<text transform="matrix(0.7338 0 0 1 18 96.5186)" class="st2 st3">Alternating Voltage and Current</text>
+<ellipse class="st4" cx="203.6" cy="569.6" rx="59.4" ry="68.6"/>
+<g>
+	<g>
+		<path class="st5" d="M167.3,597.1c1-12.2,2.7-24.7,6.3-36.2c0.8-2.9,2-5.9,3.3-8.6c2.5-6.3,5.9-7.5,10.4-3.4
+			c7.1,3.2,7.4,5.9,9.8,14c3.9,13.4,6.9,31.3,19.4,37.8c29.2,15.9,29.4-44.8,29.2-61.6c0-4.3-5.9-4.3-5.9,0
+			c0,12.2-0.4,75.9-24.5,52.6c-12.1-11.8-9.2-33.8-19.2-47.1c-6.7-8.8-16.3-7.2-22.5,1.6c-9.4,13.1-10.8,34.7-12.1,51
+			C161.1,601.4,166.9,601.4,167.3,597.1L167.3,597.1z"/>
+	</g>
+</g>
+<line class="st6" x1="203.6" y1="365" x2="203.6" y2="501"/>
+<line class="st6" x1="203.6" y1="638" x2="203.6" y2="773.9"/>
+<ellipse class="st7" cx="203.6" cy="362.8" rx="8.4" ry="9.7"/>
+<ellipse cx="203.6" cy="776.2" rx="8.4" ry="9.7"/>
+<line class="st8" x1="97.8" y1="358" x2="143.8" y2="358"/>
+<line class="st9" x1="97.1" y1="760.7" x2="144.5" y2="760.7"/>
+<line class="st9" x1="120.8" y1="785.9" x2="120.8" y2="735.6"/>
+<line class="st10" x1="203.6" y1="353.1" x2="203.6" y2="238"/>
+<line class="st10" x1="203.6" y1="891.3" x2="203.6" y2="776.2"/>
+<line class="st10" x1="203.6" y1="240" x2="441" y2="240"/>
+<line class="st10" x1="202.6" y1="890.3" x2="440" y2="890.3"/>
+<path class="st10" d="M439.3,239.3l0,237.4"/>
+<line class="st10" x1="438.3" y1="888.7" x2="438.3" y2="651.3"/>
+<g>
+	<polyline class="st10" points="437.4,652.2 485.5,630 437.6,607.4 485.7,585.2 437.9,562.5 486,540.4 438.1,517.7 486.2,495.5 
+		438.3,472.9 	"/>
+</g>
+<ellipse class="st11" cx="440" cy="446.8" rx="8.4" ry="9.7"/>
+<ellipse class="st11" cx="439" cy="681.8" rx="8.4" ry="9.7"/>
+<text transform="matrix(1 0 0 1 510 491)"><tspan x="0" y="0" class="st12 st13">L</tspan><tspan x="0" y="43.2" class="st12 st13">o</tspan><tspan x="0" y="86.4" class="st12 st13">a</tspan><tspan x="0" y="129.6" class="st12 st13">d</tspan></text>
+<use xlink:href="#Arrow_3"  width="23.2" height="21.5" x="-11.6" y="-10.8" transform="matrix(-1.768 7.630965e-04 8.765069e-04 1.9509 322.4948 240.0089)" style="overflow:visible;"/>
+<line class="st14" x1="664.6" y1="298.1" x2="664.6" y2="739.8"/>
+<line class="st14" x1="664.6" y1="734.8" x2="1324.8" y2="734.8"/>
+<text transform="matrix(0.8649 0 0 1 615.5823 347.9004)" class="st2 st15">10</text>
+<text transform="matrix(0.8649 0 0 1 627.3391 436.2402)" class="st2 st15">5</text>
+<text transform="matrix(0.8649 0 0 1 627.3391 538.748)" class="st2 st15">0</text>
+<text transform="matrix(0.8649 0 0 1 615.5823 641.2354)" class="st2 st15">-5</text>
+<text transform="matrix(0.8649 0 0 1 609.7063 737.5024)" class="st2 st15">-10</text>
+<text transform="matrix(0.8649 0 0 1 982.926 766.9497)" class="st2 st15">0.02</text>
+<text transform="matrix(0.8649 0 0 1 609.7063 307.8076)" class="st2 st15">V</text>
+<text transform="matrix(0.8649 0 0 1 1281.6985 789.6001)" class="st2 st15">t</text>
+<text transform="matrix(0.9008 0 0 1 592.8 840.7104)" class="st2 st16">Alternating voltage waveform</text>
+<g>
+	<g>
+		<line id="move" class="st17" x1="664.6" y1="629.3" x2="670.6" y2="629.3"/>
+		<line class="st18" x1="682.6" y1="629.4" x2="1300.8" y2="631.3"/>
+		<line class="st17" x1="1306.8" y1="631.3" x2="1312.8" y2="631.3"/>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st17" x1="664.9" y1="528.7" x2="670.9" y2="528.7"/>
+		<line class="st18" x1="682.9" y1="528.8" x2="1301.1" y2="530.7"/>
+		<line class="st17" x1="1307.1" y1="530.7" x2="1313.1" y2="530.7"/>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st17" x1="664.9" y1="425.9" x2="670.9" y2="425.9"/>
+		<line class="st18" x1="682.9" y1="425.9" x2="1301.1" y2="427.9"/>
+		<line class="st17" x1="1307.1" y1="427.9" x2="1313.1" y2="427.9"/>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st17" x1="1007" y1="734.8" x2="1007" y2="728.8"/>
+		<line class="st19" x1="1007.1" y1="717" x2="1008.1" y2="369.2"/>
+		<line class="st17" x1="1008.2" y1="363.3" x2="1008.2" y2="357.3"/>
+	</g>
+</g>
+<path class="st20" d="M643.8,531.3"/>
+<path id="op" class="st17" d="M667.8,527c47.7-113.8,101.4-215.7,141.5-209.7c76.7,11.5,49.7,411.2,103.9,416
+	c55.2,4.9,126-406.7,185.7-402c57.6,4.5,43.5,392.7,112.7,400c33.9,3.6,74.4-85.5,108.3-180"/>
+<line id="move" class="st21" x1="664.6" y1="259.3" x2="664.6" y2="759.3"/>
+</svg>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1280 1024" style="enable-background:new 0 0 1280 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EB2D34;}
+	.st1{fill:#231F20;}
+	.st2{font-family:'ArialRoundedMTBold';}
+	.st3{font-size:60px;}
+	.st4{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+	.st6{stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#FF0000;stroke-width:6;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#3300FF;stroke-width:6;stroke-miterlimit:10;}
+    #blink_me {
+  animation: blinker 1s linear infinite;
+    animation-name: blinker;
+    font-size: 70px;
+    text-align: center;
+}
+
+@keyframes blinker{
+  50% {
+    opacity: 0;
+  }
+}
+    
+    
+</style>
+<symbol  id="Arrow_3" viewBox="-11.6 -10.8 23.2 21.6">
+	<g>
+		<g>
+			<g>
+				<polygon class="st0" points="-11.6,-10.8 -2.7,0 -11.6,10.8 11.6,0 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon id="blink_me" class="st1" points="-11.6,-10.8 -2.7,0 -11.6,10.8 11.6,0 				"/>
+			</g>
+		</g>
+	</g>
+</symbol>
+<text transform="matrix(1 0 0 1 170.3335 73.3335)" class="st2 st3">Direct Voltage and Current</text>
+<line class="st4" x1="315" y1="190" x2="315" y2="315"/>
+<line class="st4" x1="315.5" y1="332" x2="315.5" y2="457"/>
+<line class="st5" x1="252.5" y1="314.5" x2="377.5" y2="314.5"/>
+<line class="st5" x1="289" y1="332.5" x2="342.5" y2="332.5"/>
+<circle class="st6" cx="314.5" cy="190.5" r="9"/>
+<circle class="st6" cx="315.5" cy="456.5" r="9"/>
+<line class="st7" x1="209" y1="363.5" x2="255" y2="363.5"/>
+<line class="st8" x1="206" y1="271" x2="253.4" y2="271"/>
+<line class="st8" x1="229.7" y1="296.2" x2="229.7" y2="245.9"/>
+<line class="st4" x1="314.5" y1="111" x2="315" y2="190"/>
+<line class="st4" x1="314.5" y1="470" x2="315" y2="549"/>
+<line class="st4" x1="313.8" y1="113" x2="589" y2="113"/>
+<line class="st4" x1="313.1" y1="547" x2="588.4" y2="547"/>
+<line class="st4" x1="588.4" y1="111" x2="588.4" y2="236"/>
+<line class="st4" x1="588.4" y1="424" x2="588.4" y2="549"/>
+<g>
+	<polyline class="st4" points="586.4,424 634.5,400.7 586.6,377 634.7,353.7 586.9,329.9 635,306.8 587.1,283 
+		635.2,259.7 587.3,236 	"/>
+</g>
+<ellipse class="st6" cx="589" cy="212.5" rx="7.7" ry="7.7"/>
+<ellipse class="st6" cx="587.4" cy="447.5" rx="7.7" ry="7.7"/>
+<use xlink:href="#Arrow_3"  width="23.2" height="21.6" x="-11.6" y="-10.8" transform="matrix(-1.7598 7.595633e-04 8.724487e-04 1.9419 450.7453 113.0088)" style="overflow:visible;"/>
+</svg>
